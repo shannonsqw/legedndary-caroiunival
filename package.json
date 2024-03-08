@@ -1,0 +1,23 @@
+{
+  "name": "legedndary-caroiunival",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shannonsqw/legedndary-caroiunival.git"
+  },
+  "dependencies": {
+    "improved-broccoliert": "1.0.0",
+    "studisous-enginytre": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shannonsqw/legedndary-caroiunival/issues"
+  },
+  "homepage": "https://github.com/shannonsqw/legedndary-caroiunival#readme"
+}
